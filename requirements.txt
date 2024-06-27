@@ -5,3 +5,4 @@ python-dotenv
 numexpr
 langchainhub
 pep8
+wikipedia
