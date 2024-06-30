@@ -1,9 +1,16 @@
 {
     "cSpell.words": [
+        "attritions",
+        "dataframe",
         "docstore",
         "dotenv",
         "iomega",
         "langchain",
-        "openai"
+        "openai",
+        "pypdf",
+        "Ramkumar",
+        "streamlit",
+        "toolkits",
+        "zensar"
     ]
 }
